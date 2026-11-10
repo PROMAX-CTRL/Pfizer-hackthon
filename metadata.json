@@ -1,0 +1,6 @@
+{
+  "name": "UAT Untangled",
+  "description": "Prototype workflow to help software testers explain issues and UAT managers approve structured bug reports for developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
